@@ -1,4 +1,3 @@
-=======
 # 🎮 Pokedex - Projeto de Estudo
 
 Uma aplicação web interativa que consome a [PokéAPI](https://pokeapi.co/) para exibir informações sobre Pokémon. Este projeto foi desenvolvido como parte de estudos sobre JavaScript moderno, APIs REST e desenvolvimento front-end.
