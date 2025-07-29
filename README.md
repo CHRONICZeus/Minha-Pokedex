@@ -1,4 +1,4 @@
-# 🎮 Pokedex - Projeto de Estudo
+# 🎮 Minha Pokédex
 
 Uma aplicação web interativa que consome a [PokéAPI](https://pokeapi.co/) para exibir informações sobre Pokémon. Este projeto foi desenvolvido como parte de estudos sobre JavaScript moderno, APIs REST e desenvolvimento front-end.
 
@@ -25,7 +25,7 @@ Uma aplicação web interativa que consome a [PokéAPI](https://pokeapi.co/) par
 ## 📁 Estrutura do Projeto
 
 ```
-Meu Pokedex/
+Minha Pokedex/
 ├── assets/
 │   ├── css/
 │   │   ├── global.css      # Estilos globais
@@ -42,8 +42,8 @@ Meu Pokedex/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/meu-pokedex.git
-cd meu-pokedex
+git clone https://github.com/seu-usuario/minha-pokedex.git
+cd minha-pokedex
 ```
 
 2. Abra o arquivo `index.html` em seu navegador ou use um servidor local:
@@ -102,7 +102,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT.
 
 ## 🔗 Links Úteis
 
@@ -111,5 +111,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
->>>>>>> f03479dc6c587777ce5fdb0d583d62e926d6d9ef
 Desenvolvido com ❤️ para estudos de JavaScript e APIs
